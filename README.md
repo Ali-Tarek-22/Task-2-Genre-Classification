@@ -6,7 +6,7 @@
 1. Open in Google Colab: Upload the .ipynb notebook file to Google Colab.
 2.  Go to https://drive.google.com/file/d/1oT4LwlALs2d_SZhXPCVaAPZMZMor4naf/view?usp=sharing, download the LoRA Adaptor parameters zip file (`genre_classifier.zip`), then upload it to Colab.
 3. Execute All Cells: Click Runtime ➔ Run all (Ctrl + F9).
-4. Scroll to the last cell where the function `classify_story()` will classify the genre of the test set, or you can pass your story for classification.
+4. Scroll to the last cell, where the function `classify_story()` will classify the genre of the test set, or you can pass your own story for classification.
 
 
 
